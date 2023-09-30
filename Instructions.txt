@@ -1,5 +1,0 @@
-1. I am collaborating in this repository.
-2. Accept the invite.
-3. Make changes to Instructions.txt
-4. Commit these changes.
--Alyssa
